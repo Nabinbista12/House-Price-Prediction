@@ -1,0 +1,1 @@
+This project predicts housing prices using three machine learning algorithms: Linear Regression, Decision Tree Regression, and Random Forest Regressor. Among these, the Random Forest Regressor demonstrated the best performance. The project includes data preprocessing, model training, evaluation, and performance comparison of these algorithms.
